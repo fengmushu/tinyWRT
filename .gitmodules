@@ -1,0 +1,6 @@
+[submodule "musl-cross-make"]
+	path = musl-cross-make
+	url = https://github.com/richfelker/musl-cross-make.git
+[submodule "bb/busybox-1.35.0"]
+	path = bb/busybox-1.35.0
+	url = https://github.com/fengmushu/bb.git
